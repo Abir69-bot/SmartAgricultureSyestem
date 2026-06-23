@@ -4,7 +4,7 @@
 A smart farming solution built using the STM32 Blue Pill Microcontroller that monitors environmental conditions in real time and automates agricultural responses. The system integrates multiple sensors to measure temperature, soil moisture, and distance, while providing automated control through a servo motor and visual alerts.
 
 
-#3 📌 Project Overview
+## 📌 Project Overview
 
 Traditional farming often lacks continuous monitoring of environmental conditions, which can lead to inefficient water usage and poor crop management. This project addresses these challenges by developing an automated monitoring system capable of:
 
