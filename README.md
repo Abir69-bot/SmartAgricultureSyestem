@@ -1,4 +1,4 @@
-#🌱 Smart Agriculture System
+# 🌱 Smart Agriculture System
 
 
 A smart farming solution built using the STM32 Blue Pill Microcontroller that monitors environmental conditions in real time and automates agricultural responses. The system integrates multiple sensors to measure temperature, soil moisture, and distance, while providing automated control through a servo motor and visual alerts.
