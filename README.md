@@ -82,10 +82,10 @@ Smart-Agriculture-System/
 
 ## Future Enhancements
 
-1. Wi-Fi/Bluetooth-based remote monitoring
-2. Mobile application dashboard for real-time monitoring
-3. Automated irrigation control system
-4. GSM-based SMS notifications and alerts
-5. Cloud data storage and analytics
-6. Solar-powered deployment for energy efficiency
-7. Multi-zone soil moisture monitoring
+- Wi-Fi/Bluetooth-based remote monitoring
+-  Mobile application dashboard for real-time monitoring
+-  utomated irrigation control system
+- GSM-based SMS notifications and alerts
+- Cloud data storage and analytics
+- Solar-powered deployment for energy efficiency
+-  Multi-zone soil moisture monitoring
