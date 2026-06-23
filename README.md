@@ -67,15 +67,19 @@ Servo Motor Control
 ADC (Analog-to-Digital Conversion)
 
 
-## 📁 Project Structure
+## 📂 Project Structure
+
+```text
 Smart-Agriculture-System/
-│
 ├── SmartAgricultureSystem.ino
 ├── functions.h
 ├── config.h
 ├── README.md
-└── Documentation/
-    └── Project_Report.pdf
+├── Documentation/
+│   └── Project_Report.pdf
+└── Images/
+    └── system_diagram.png
+```
     
 ## 🎯 Future Improvements
 Wi-Fi/Bluetooth-based remote monitoring
