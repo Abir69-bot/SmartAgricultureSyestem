@@ -46,3 +46,42 @@ Provides immediate visual indication of over-watered conditions.
 Displays temperature and distance measurements.
 Shows scrolling soil status information.
 Updates data in real time.
+
+## 📊 System Workflow
+Read temperature from the DHT11 sensor.
+Read soil moisture data from the analog sensor.
+Measure distance using the HC-SR04 sensor.
+Display all sensor data on the LCD.
+Compare temperature against the threshold.
+Control servo motor accordingly.
+Trigger LED alerts based on soil moisture level.
+Continuously repeat the monitoring cycle.
+
+## ⚙️ Technologies Used
+Embedded C/C++
+STM32 Blue Pill
+Arduino Framework
+I2C Communication
+Sensor Interfacing
+Servo Motor Control
+ADC (Analog-to-Digital Conversion)
+
+
+## 📁 Project Structure
+Smart-Agriculture-System/
+│
+├── SmartAgricultureSystem.ino
+├── functions.h
+├── config.h
+├── README.md
+└── Documentation/
+    └── Project_Report.pdf
+    
+## 🎯 Future Improvements
+Wi-Fi/Bluetooth-based remote monitoring
+Mobile application dashboard
+Automated irrigation control
+GSM-based SMS notifications
+Cloud data storage and analytics
+Solar-powered deployment
+Multi-zone soil moisture monitoring
